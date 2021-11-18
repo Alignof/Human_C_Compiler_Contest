@@ -1,2 +1,4 @@
-# Human_C_Compiler_Contest
-HCCC -Human C Compiler Contest-
+# 人間Cコンパイラコンテスト(HCCC)
+人間Cコンパイラコンテスト(HCCC)とは文字通り競技者自身がCコンパイラとなり，
+C言語からアセンブリを生成し，その時間と正確さを競う競技です．
+
