@@ -35,9 +35,6 @@ C言語の仕様やアセンブリ，多くのアーキテクチャに関する�
 - ソースコードの構文の複雑さ（構造体のアライメントや未定義動作など）
 - 複数のアーキテクチャ(x86\_64, arm, risc-v, ppc, mips)
 
-# link
-[https://github.com/Alignof/Human\_C\_Compiler\_Contest](https://github.com/Alignof/Human_C_Compiler_Contest)
-
 # Director
 2021 11.21  
 Takana Norimasa  
