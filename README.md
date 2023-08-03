@@ -15,7 +15,7 @@ C言語からアセンブリを生成し，その時間と正確さを競う競�
 [https://www.seccon.jp/2022/seccon_contest/secconcon.html](https://www.seccon.jp/2022/seccon_contest/secconcon.html)
 
 ## チュートリアル
-開催の1週間前までには準備する予定です（頑張ります）．
+[https://github.com/Alignof/HCCC_Tutorial](https://github.com/Alignof/HCCC_Tutorial)
 
 ## 競技規則
 第1回大会では問題の表示や提出を行う競技サーバと手元でデバッグするための検証環境を用意して以下のような規則で実施する．
