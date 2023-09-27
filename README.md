@@ -49,6 +49,19 @@ C言語からアセンブリを生成し，その時間と正確さを競う競�
     - SystemError: 上記以外のエラー．運営によるリジャッジが行われる可能性がある．
 1. ジャッジシステムはAE, LE, REなどの場合に各エラーを競技者に表示する．
 1. 実行の制限時間は2000msとする．
+1. ジャッジは以下の環境で行われる．
+    ```
+    $ uname -a 
+    Linux 31d57f0f4274 6.5.4-arch2-1 #1 SMP PREEMPT_DYNAMIC Thu, 21 Sep 2023 11:06:39 +0000 x86\_64 GNU/Linux
+    $ lld --version
+    Debian GLIBC 2.31-13+deb11u6
+    $ gcc --version
+    gcc (GCC) 12.2.0
+    $ as --version
+    GNU assembler (GNU Binutils for Debian) 2.35.2
+    $ ld --version
+    GNU ld (GNU Binutils for Debian) 2.35.2
+    ```
 
 [^C99]:[https://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf](https://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf)
 [^ABI]:[https://uclibc.org/docs/psABI-x86_64.pdf](https://uclibc.org/docs/psABI-x86_64.pdf)
